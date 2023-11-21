@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/reab/static/css/main.48c09f94.css",
+    "main.js": "/reab/static/js/main.af47f6e4.js",
+    "static/media/Background.png": "/reab/static/media/Background.bc0c84b882bffd6ecd38.png",
+    "static/media/Image.png": "/reab/static/media/Image.9e813906479bf2cbf6f6.png",
+    "static/media/bottomright.png": "/reab/static/media/bottomright.e1fe215d43624f7d16a1.png",
+    "static/media/topright.png": "/reab/static/media/topright.6a8ed55a0eba7a2467da.png",
+    "index.html": "/reab/index.html",
+    "main.48c09f94.css.map": "/reab/static/css/main.48c09f94.css.map",
+    "main.af47f6e4.js.map": "/reab/static/js/main.af47f6e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48c09f94.css",
+    "static/js/main.af47f6e4.js"
+  ]
+}
